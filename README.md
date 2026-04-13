@@ -29,3 +29,11 @@ curl -fsSL https://openclaw.ai/install.sh | bash
 ```bash
 openclaw --version
 ```
+
+# Setting OpenClaw
+
+## So now we have to setup the openclaw - run this command in your powershell
+
+```bash
+openclaw onboard --install-daemon
+```
