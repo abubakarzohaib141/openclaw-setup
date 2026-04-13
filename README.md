@@ -13,6 +13,6 @@
 # Setting Up
 
 ### First Open Powershell as administator Then Run this command : 
-``bash
+```bash
 wsl --install -d ubuntu
-``
+```
