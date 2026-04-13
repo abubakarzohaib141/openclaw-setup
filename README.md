@@ -18,3 +18,9 @@ wsl --install -d ubuntu
 ```
 # Installing
 ----------------------------------------------------------------
+
+## Now For Installing paste this command : 
+
+```bash
+curl -fsSL https://openclaw.ai/install.sh | bash
+```
