@@ -16,6 +16,10 @@
 ```bash
 wsl --install -d ubuntu
 ```
+then :
+```bash
+wsl -d ubuntu
+```
 # Installing
 ----------------------------------------------------------------
 
